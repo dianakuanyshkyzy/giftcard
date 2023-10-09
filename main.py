@@ -1,7 +1,7 @@
 from dotenv import load_dotenv
 load_dotenv()
 import os 
-token = 'zGVS6FhH3yHudZgjwY9vfYsjmdx62XY8'
+token = 'token' # token here
 from giftcards.router import router as Giftcards_router
 from database import database
 import requests
