@@ -9,8 +9,9 @@ This software is designed to assist users in generating gift cards quickly and e
 Regarding back-end part of the application, I wrote simple HTTP methods to make a program accessible to users. After clicking on execute button, the response body turns into the answer of an AI machine.  
 ![image](https://github.com/dianakuanyshkyzy/giftcard/assets/141010600/77f6350d-480e-4d45-bd5e-cd7d8dfcd1d8)
 
-Key Features:
+In order to test the app, open http://localhost:3000 with your browser to see the result. You will have to create an API at https://www.docker.com/
 
+Key Features:
 Customization: AI generated gift cards with your keywords.
 Security: Built-in security features to protect project.
 User-Friendly Interface: An intuitive and easy-to-use graphical interface.
