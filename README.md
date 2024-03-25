@@ -1,6 +1,9 @@
 Gift Card Generator
 
-Welcome to the Gift Card Generator Application! This software is designed to assist users in generating gift cards quickly and easily. Whether you need gift cards for personal use or as part of a business promotion, this application has you covered.
+Welcome to the Gift Card Generator Application! 
+
+This software is designed to assist users in generating gift cards quickly and easily. 
+Whether you need gift cards for personal use or as part of a business promotion, this application has you covered.
 
 Key Features:
 Customization: AI generated gift cards with your keywords.
